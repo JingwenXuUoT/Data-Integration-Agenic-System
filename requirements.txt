@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langgraph
+openai
+chromadb
+sqlalchemy
+streamlit
+pypdf
+python-dotenv
+fastmcp
